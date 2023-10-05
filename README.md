@@ -8,6 +8,8 @@
 [5. Результат](.README.md#Результат)    
 [6. Выводы](.README.md#Выводы) 
 
+Python version: 3.11.5
+
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
@@ -37,7 +39,9 @@
 ### Этапы работы над проектом  
 Для угадывания числа выбран алгоритм бинарного поиска.
 Реализация алгоритма: [алгоритм угадывания с помощью бинарного поиска](https://github.com/eisakhanov/sf_ds_module3_hw/tree/master/guess-number-task/game_v3.py).
+
 Ноутбук с решением: [бинарный поиск](https://github.com/eisakhanov/sf_ds_module3_hw/tree/master/guess-number-task/game.ipynb)
+
 Также результат представлен в виде общего ноутбука с двумя другими алгоритмами: [baseline](https://github.com/eisakhanov/sf_ds_module3_hw/tree/master/guess-number-task/baseline.ipynb)
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
